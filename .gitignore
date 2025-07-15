@@ -9,3 +9,7 @@ env/
 
 # Ignore large folders
 Python3.9_version/
+
+# Large binaries
+*.pyd
+*.dll
