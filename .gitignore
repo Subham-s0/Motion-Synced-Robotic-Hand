@@ -1,0 +1,11 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore large folders
+Python3.9_version/
